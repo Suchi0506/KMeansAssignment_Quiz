@@ -13,7 +13,7 @@ Below were the questions in the assignment:
 
 6. What does k means do?
 
-7 What output will the below code give? 
+7. What output will the below code give? 
 colour=[‘red’,’blue’,’green’,’yellow’,’cyan’] 
 n=0 
 for i in range(0,len(colour)): 
