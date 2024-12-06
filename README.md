@@ -36,8 +36,8 @@ plt.scatter(X[df[‘Clusters(5)’]==i],Y[df[‘Clusters(5)’]==i],s=10,c=colou
 15. Why do we perform standard scalar?
 
 16. Perform the following operations on the dataset:
- 1. Drop Status id and status published column.
- 2. Use a label encoder to encode the status type column.
- 3. Standardize the data using min-max scalar
- 4. Create a K means model for 2 clusters.
- 5. From the above model, what is the inter-cluster variance of the model?
+    1. Drop Status id and status published column.
+    2. Use a label encoder to encode the status type column.
+    3. Standardize the data using min-max scalar.
+    4. Create a K means model for 2 clusters.
+    5. From the above model, what is the inter-cluster variance of the model ?
